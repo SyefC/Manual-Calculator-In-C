@@ -107,5 +107,6 @@ int result4 = gg / hh;
 else {
   printf("false");
 }
+  return 0;
 }
 //-----------------------------------------
